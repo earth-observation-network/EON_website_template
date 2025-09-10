@@ -69,7 +69,7 @@ comments: false
 
 -   We will stay at: [The Cabin Oderbrück](https://oderbrueck.de/uebernachten-2/the-cabin-oderbrueck)
 -   Costs: 25€ per person/night (plus the local tax of 3€ per person/night); we will collect the money in cash from you
--   You can bring you own bed linen and towels or rent it for \~9€
+-   You can bring you own bed linen and towels or rent it for \~15€
 
 ## Catering
 
@@ -85,7 +85,7 @@ comments: false
     -   QGIS
     -   Notepad++/geany
 -   Outdoor/Hiking gear
--   You can bring you own bed linen or rent it (\~9€)
+-   You can bring you own bed linen and towel or rent it
 -   Slippers
 
 ::: {layout-ncol="2"}
